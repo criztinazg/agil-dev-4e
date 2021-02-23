@@ -1,15 +1,12 @@
 # Curso de desarrollo ágil 4ta edición (2021)
-
 Repositorio para el proyecto del curso
 
-Contiene el mínimo para un proyecto, incluyendo una GitHub action que
-comprueba la presencia de ciertos ficheros, un directorio para los
-tests, y otro para la documentación.
+## Proyecto
+Bot analizador de conversaciones
 
 ## Descripción del proyecto
-Lenguaje de programación: Python
-Proyecto: Bot analizador de conversaciones
-Problema a resolver: Bot que almacene las conversaciones de diferentes grupos, extrayendo información sobre las mismas, tales como participación, contestaciones, o uso de palabras y expresiones.
+- Lenguaje de programación: Python
+- Problema a resolver: Bot que almacene las conversaciones de diferentes grupos, extrayendo información sobre las mismas, tales como participación, contestaciones, o uso de palabras y expresiones.
 
 ## Contribuidores
 | Nombre | correo | linkdin |

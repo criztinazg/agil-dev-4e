@@ -12,6 +12,6 @@ Bot analizador de conversaciones
 | Nombre | correo | linkdin |
 |--------|--------|---------|
 |👨‍💻 [Obed Gonzalez](https://github.com/Kobedinho)| coben.9@gmail.com | [link](https://www.linkedin.com/in/obed-gonzalez-6443594a)|
-|👨‍💻 [Criz](https://github.com/criztinazg) | email@gmail.com |[link](https://www.linkedin.com/)|
+|👨‍💻 [Cristina](https://github.com/criztinazg) | czentenog@outlook.com | [link](https://www.linkedin.com/in/cristinazenteno/)|
 
 
